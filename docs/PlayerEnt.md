@@ -19,5 +19,6 @@ E0 22 AA 00 ?? 00 ?? 00 00 00 00 ?? 39 05 39 05 - base for 1 entitiy
 
 ````
 0x68 - 1 BYTE - Player Health
+0x3c + 418 - STRING - Name
 
 ````
