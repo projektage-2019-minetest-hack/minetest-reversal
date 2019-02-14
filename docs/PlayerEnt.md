@@ -10,3 +10,13 @@
 ## Player Ent Values
 
 ### Signature
+
+````
+E0 22 AA 00 ?? 00 ?? 00 00 00 00 ?? 39 05 39 05 - base for 1 entitiy
+````
+
+### Entitiy Offsets
+
+````
+
+````
