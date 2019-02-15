@@ -24,8 +24,8 @@ D8 F4 D9 00 A6 6F 68 00 A0 FA AD
 ````
 Die oben gezeigte Signatur returned ist die lokale PlayerCameraBase
 
-### Offsets
 
+### Offsets
 ````
 Base - 0x10c = Yaw(Float)
 ````
@@ -41,5 +41,4 @@ Base - 0x10c = Yaw(Float)
 ### Offsets
 ````
 Base + 0x168
-
 ````
