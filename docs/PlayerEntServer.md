@@ -6,6 +6,7 @@
 
 ````
 E0 22 AA 00 ?? 00 ?? 00 00 00 00 ?? 39 05 39 05 - base for 1 entitiy
+Note that the 5th byte seems to be an index.
 ````
 
 ### Entitiy Offsets
