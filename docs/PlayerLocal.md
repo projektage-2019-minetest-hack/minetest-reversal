@@ -22,7 +22,7 @@ Base + 0x1B4 = Nord-Süd(Float)
 ````
 18 FC A9 00 00 00 00 00
 ````
-Die oben gezeigte Signatur returned ist eine lokale PlayerCameraBase (read only)
+Die oben gezeigte Signatur returned eine lokale PlayerCameraBase (read only)
 
 
 ### Offsets
