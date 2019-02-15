@@ -27,5 +27,5 @@ Die oben gezeigte Adresse ist die lokale PlayerCameraBase
 ### Offsets
 
 ````
-Base + 0x10c = Yaw(Float)
+Base - 0x10c = Yaw(Float)
 ````
