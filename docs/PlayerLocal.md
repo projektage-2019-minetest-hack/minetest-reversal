@@ -6,7 +6,7 @@
 18 FC A9 00 00 00 00 00
 ````
 
-Die oben gezeigte Signatur returned die lokale PlayerBase
+Die oben gezeigte Signatur returned die lokale PlayerPositionBase
 
 ## Offsets
 
@@ -22,6 +22,7 @@ Base + 0x1B4 = Nord-Süd(Float)
 ````
 D8 F4 D9 00 A6 6F 68 00 A0 FA AD
 ````
+Die oben gezeigte Signatur returned die lokale PlayerCameraBase
 
 ### Offsets
 
