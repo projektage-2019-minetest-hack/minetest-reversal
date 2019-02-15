@@ -20,25 +20,12 @@ Base + 0x1B4 = Nord-Süd(Float)
 ## Player Cam Signatur
 
 ````
-D8 F4 D9 00 A6 6F 68 00 A0 FA AD
+18 FC A9 00 00 00 00 00
 ````
 Die oben gezeigte Signatur returned ist die lokale PlayerCameraBase
 
 
 ### Offsets
 ````
-Base - 0x10c = Yaw(Float)
-````
-
-
-
-## Signature to something
-
-````
-18 FC A9 00 00 00 00 00
-````
-
-### Offsets
-````
-Base + 0x208
+Base + 0x208 = Yaw(Float)
 ````
