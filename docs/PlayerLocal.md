@@ -35,10 +35,10 @@ Base - 0x10c = Yaw(Float)
 ## Signature to something
 
 ````
-4C FA A9 00 D4 17 87 3F 48 00 D8
+18 FC A9 00 00 00 00 00
 ````
 
 ### Offsets
 ````
-Base + 0x168
+Base + 0x208
 ````
