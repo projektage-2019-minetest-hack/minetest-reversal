@@ -11,11 +11,20 @@ Die oben gezeigte Signatur returned die lokale PlayerBase
 ## Offsets
 
 ````
-PlayerBase + 0xc8 = Name(String)
+Base + 0xc8 = Name(String)
 
-PlayerBase + 0x1AC = West-Ost(Float)
-PlayerBase + 0x1B0 = Höhe(Float)
-PlayerBase + 0x1B4 = Nord-Süd(Float)
+Base + 0x1AC = West-Ost(Float)
+Base + 0x1B0 = Höhe(Float)
+Base + 0x1B4 = Nord-Süd(Float)
 ````
 ## Player Cam Signature
 
+````
+D8 F4 D9 00 A6 6F 68 00 A0 FA AD
+````
+
+### Offsets
+
+````
+Base + 0x10c = Yaw(Float)
+````
