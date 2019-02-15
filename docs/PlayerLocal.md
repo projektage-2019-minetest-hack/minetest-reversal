@@ -29,3 +29,17 @@ Die oben gezeigte Signatur returned ist die lokale PlayerCameraBase
 ````
 Base - 0x10c = Yaw(Float)
 ````
+
+
+
+## Signature to something
+
+````
+4C FA A9 00 D4 17 87 3F 48 00 D8
+````
+
+### Offsets
+````
+Base + 0x168
+
+````
